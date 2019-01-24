@@ -19,8 +19,8 @@ In this links I have made some repository links for testing purpose. I added som
 1. [HTML](https://www.w3schools.com/html/ "w3school HTML Tutorial"): HTML is the base tool for any webpage development.
 1. [CSS](https://www.w3schools.com/html/html_css.asp/ "w3school CSS"): CSS is what makes your webpage look good.
 1. [JavaScript](https://www.w3schools.com/js/ "w3school JavaScript"): JavaScript is a programming language. 
-1. [Jquey] (https://www.w3schools.com/jquery/): Jquery is a javaScript library simplifies complicated things  from JavaScript.
-1. [Bootstrap] (https://www.w3schools.com/bootstrap/default.asp): Bootstrap is a javaScript frame work to make responsive websites.
+1. [Jquey](https://www.w3schools.com/jquery/): Jquery is a javaScript library simplifies complicated things  from JavaScript.
+1. [Bootstrap](https://www.w3schools.com/bootstrap/default.asp): Bootstrap is a javaScript frame work to make responsive websites.
 
 
 
