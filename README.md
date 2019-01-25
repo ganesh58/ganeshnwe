@@ -24,9 +24,9 @@ In this links I have made some repository links for testing purpose. I added som
 
 
 
-## contrbutors
+## contributors
 
-My name is Ganesh Siripuram I am student from graduate Applied Computer Science program. I am intrested towards web developement.
+My name is Ganesh Siripuram I am Graduate student from Applied Computer Science program. I am intrested towards web developement.
 
 
 ![vscode image](https://i.eurosport.com/2017/09/23/2173246-45422339-640-360.jpg)
