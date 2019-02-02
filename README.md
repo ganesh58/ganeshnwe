@@ -3,7 +3,7 @@
 
 ## Repository Links
 
-- [Webpage Links](https://github.com/ganesh58/aboutme/blob/master/README.md)
+- [Webpage Links](https://ganesh58.github.io/aboutme/)
 - [Source](https://github.com/ganesh58/aboutme/)
 - [MyGithubPages 1](https://github.com/ganesh58/test1.git)
 - [MyGithubPages 2](https://github.com/ganesh58/test.git)
