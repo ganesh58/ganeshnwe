@@ -14,11 +14,15 @@
 In this links I have made some repository links for testing purpose. I added some of my pages using git commands
 
 
-## remommened tools
+## recommended tools
 
 1. [HTML](https://www.w3schools.com/html/ "w3school HTML Tutorial"): HTML is the base tool for any webpage development.
-1. [JavaScript](https://www.w3schools.com/js/ "w3school JavaScript"): JavaScript is a programming language. 
 1. [Bootstrap](https://www.w3schools.com/bootstrap/default.asp): Bootstrap is a javaScript frame work to make responsive websites.
+
+## recommended resources
+
+1. [JavaScript](https://www.w3schools.com/js/ "w3school JavaScript"): JavaScript is a programming language. 
+
 
 
 
